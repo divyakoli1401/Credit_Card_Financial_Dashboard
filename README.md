@@ -19,3 +19,5 @@
 
 ![image](https://github.com/divyakoli1401/Credit_Card_Financial_Dashboard/assets/65173305/2a8c0d5b-bcfe-4be9-9048-3b4c4519750d)
 
+you can download detailed presentation from here - ![click here](https://github.com/divyakoli1401/Credit_Card_Financial_Dashboard/blob/main/Credit%20Card%20Financial%20Insights.pptx)
+
